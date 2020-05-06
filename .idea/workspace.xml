@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70cecab8-a9ec-4727-bb3f-74ad6418e6fd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/bullets/Bullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/bullets/Bullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/bullets/PeaBullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/bullets/PeaBullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/bullets/SnowBullet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/bullets/SnowBullet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/game/Background.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/game/Background.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/game/GamePlay$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/game/GamePlay$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/game/GamePlay$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/game/GamePlay$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/game/GamePlay.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/game/GamePlay.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/game/Glass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/game/Glass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/game/Shovel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/game/Shovel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/game/zombieAubio.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/game/zombieAubio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/plants/Blover.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/plants/Blover.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/plants/Plant.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/plants/Plant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/plants/Repeater.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/plants/Repeater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/plants/Shoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/plants/Shoot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/plants/SnowPea.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/plants/SnowPea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/plants/Spikerock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/plants/Spikerock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/plants/ThreePeater.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/plants/ThreePeater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/plants/WallNut.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/plants/WallNut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/zombies/Award.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/zombies/Award.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/zombies/Zombie.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/zombies/Zombie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/zombies/Zombie0.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/zombies/Zombie0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/zombies/Zombie1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/zombies/Zombie1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/zombies/Zombie2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/zombies/Zombie2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/core/zombies/Zombie3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/core/zombies/Zombie3.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectId" id="1bRdgr5lcIsumfCvbdcDYpivwSs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GamePlay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="core.game.GamePlay" />
+      <module name="plant_vs_zombie_simple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="core.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GamePlay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70cecab8-a9ec-4727-bb3f-74ad6418e6fd" name="Default" comment="" />
+      <created>1554540849147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554540849147</updated>
+      <workItem from="1554540855832" duration="206000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="206000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1588636063564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588636063564" />
+    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1588636063564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588636063564" />
+    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1588636063564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588636063564" />
+    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1588636063564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588636063564" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
